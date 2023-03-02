@@ -1,4 +1,5 @@
-<h3 align="center">Je suis un étudiant de 2ème année de BUT à Calais.</h3>
+<h1 align="center">👋 Tom 👋</h1>
+<h2 align="center">Je suis un étudiant de 2ème année de BUT à Calais.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buathiertom&label=Profile%20views&color=0e75b6&style=flat" alt="buathiertom" /> </p>
 
