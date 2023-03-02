@@ -44,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buathiertom&" alt="buathiertom" /></p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=0,2,2,5,30)
