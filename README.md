@@ -4,8 +4,7 @@
 <h2 align="center">Je suis un étudiant de 2ème année de BUT à Calais</h3>
 
 
-- 🔭 Je travaille actuellement sur le [Quarto](https://github.com/BuathierTom/SAE_QUARTO)
-- 
+- 🔭 Je travaille actuellement sur le [Quarto](https://github.com/BuathierTom/SAE_QUARTO) 
 #
 
 <h3 align="left">📫 Me contacter</h3>
