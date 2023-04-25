@@ -4,7 +4,7 @@
 <h3 align="center">Je suis un étudiant de 2ème année de BUT à Calais</h3>
 
 
-- 💼 : Je suis actuellement en stage au LOG (Laboratoire d'Océanologie et de Géosciences) pour une durée de 10 semaines !
+- 💼 : Je suis actuellement en stage au LOG (Laboratoire d'Océanologie et de Géosciences) à Wimereux pour une durée de 10 semaines !
 - 🔍 : Je travail également sur un site internet qui me servira de Portfolio.
 #
 
