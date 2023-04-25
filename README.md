@@ -4,7 +4,8 @@
 <h2 align="center">Je suis un étudiant de 2ème année de BUT à Calais</h3>
 
 
-- 🔭 Je travaille actuellement sur le [Quarto](https://github.com/BuathierTom/SAE_QUARTO) 
+- 💼 - Je suis actuellement en stage au LOG (Laboratoire d'Océanologie et de Géosciences) pour une durée de 10 semaines !
+- 🔍 - Je travail également sur un site internet qui me servira de Portfolio.
 #
 
 <h3 align="left">📫 Me contacter</h3>
