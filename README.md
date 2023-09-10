@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)
 
 <h1 align="center">👋 Tom 👋</h1>
-<h3 align="center">Je suis un étudiant de 2ème année de BUT à Calais</h3>
+<h3 align="center">Je suis un étudiant de 3ème année de BUT à Calais</h3>
 
-
-- 💼 : Je suis actuellement en stage au LOG (Laboratoire d'Océanologie et de Géosciences) à Wimereux pour une durée de 10 semaines !
-- 🔍 : Je travail également sur un site internet qui me servira de Portfolio.
 #
 
 <h3 align="left">📫 Me contacter</h3>
