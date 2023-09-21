@@ -3,6 +3,8 @@
 <h1 align="center"> Bonjour 👋</h1>
 <h3 align="center"> Je m'appelle Tom Buathier et je suis un étudiant de 3ème année de BUT informatique à Calais. </h3>
 
+#
+
 <h3 align="left">📫 Me contacter</h3>
 
 <p align="left">
@@ -15,7 +17,7 @@
 - <u>Linkedin:</u> [tom-buathier](https://www.linkedin.com/in/tom-buathier/)
 
 #
-
+<!-- https://github.com/tandpfun/skill-icons -->
 <h3 align="left">📨 Mes compétences</h3>
 
 <p align="center">
