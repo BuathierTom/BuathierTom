@@ -36,6 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buathiertom&show_icons=true&locale=en" alt="buathiertom" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buathiertom&" alt="buathiertom" /></p>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=0,2,2,5,30)
