@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)
 
 <h1 align="center"> Bonjour 👋</h1>
-<h3 align="center"> Je m'appelle Tom Buathier et je suis étudiant de 3ème année de BUT informatique à Calais. </h3>
+<h3 align="center"> Voici le profil de Tom, étudiant en 3ème année de BUT informatique à Calais. </h3>
 
 #
 
