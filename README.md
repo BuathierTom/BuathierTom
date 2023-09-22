@@ -15,7 +15,7 @@
 
 #
 <!-- https://github.com/tandpfun/skill-icons -->
-<h3 align="left">📨 Mes compétences</h3>
+<h3 align="left">📋 Mes compétences</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3 align="left">📨 Mes outils</h3>
+<h3 align="left">🔧 Mes outils</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
