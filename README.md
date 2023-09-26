@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,figma,stackoverflow,discord,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,docker,figma,stackoverflow,discord,github&theme=light" />
   </a>
 </p>
 
