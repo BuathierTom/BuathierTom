@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,nodejs,ts,js,nextjs,symfony,mongodb,postgres,flutter,gradle,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,nodejs,ts,js,nextjs,symfony,postgres,flutter,gradle,c&theme=light" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,visualstudio,docker,figma,stackoverflow,discord,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,visualstudio,docker,mongodb,figma,stackoverflow,discord,github&theme=light" />
   </a>
 </p>
 
