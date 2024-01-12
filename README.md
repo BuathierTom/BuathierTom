@@ -8,7 +8,7 @@
 <h3 align="left">📫 Me contacter</h3>
 
 - <u>Email:</u> **buathier_tom@orange.fr**
-- <u>Discord:</u> **Xenus#6962**
+- <u>Discord:</u> **xenvs**
 - <u>Twitter:</u> **[@tom_btr6](https://twitter.com/tom_btr6)**
 - <u>Github:</u> **[BuathierTom](https://github.com/BuathierTom)**
 - <u>Linkedin:</u> **[tom-buathier](https://www.linkedin.com/in/tom-buathier/)**
