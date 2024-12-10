@@ -32,12 +32,4 @@
   </a>
 </p>
 
-#
-
-<h3 align="left">📊 Mes Statistiques</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buathiertom&show_icons=true&locale=en&layout=compact" alt="buathiertom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buathiertom&show_icons=true&locale=en" alt="buathiertom" /></p>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=0,2,2,5,30)
