@@ -5,7 +5,7 @@
 
 #
 
-<h3 align="left">🚀 Projets récents</h3>
+<h3 align="left">🚀 - Projets récents</h3>
 
 - 🌐 **[Portfolio personnel](https://buathier-tom.fr/)**
 - ✅ **[TaskFlow](https://taskflow.buathier-tom.fr/)** - *Application TodoList qui permet de gérer des taches avec un tags et une deadline. Permet aussi une Authentification.*
@@ -13,7 +13,7 @@
 
 #
 <!-- https://github.com/tandpfun/skill-icons -->
-<h3 align="left">📋 Mes compétences</h3>
+<h3 align="left">📋 - Mes compétences</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3 align="left">🔧 Mes outils</h3>
+<h3 align="left">🔧 - Mes outils</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@
 
 #
 
-<h3 align="left">📫 Me contacter</h3>
+<h3 align="left">📫 - Me contacter</h3>
 
 - <u>Portfolio:</u> **[buathier-tom.fr](https://buathier-tom.fr/)**
 - <u>Email:</u> **buathier_tom@orange.fr**
