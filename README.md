@@ -8,7 +8,7 @@
 <h3 align="left">🚀 - Projets récents</h3>
 
 - 🌐 **[Portfolio personnel](https://buathier-tom.fr/)**
-- ✅ **[TaskFlow](https://taskflow.buathier-tom.fr/)** - *Application TodoList qui permet de gérer des taches avec un tags et une deadline. Permet aussi une Authentification.*
+- ✅ **[TaskFlow](https://taskflow.buathier-tom.fr/)** - *Application TodoList permettant de gérer des tâches avec des tags, des deadlines, et une authentification utilisateur.*
 - 🛒 **[ApiShop](https://apishop.buathier-tom.fr/)** - *Site e-commerce basique avec une API en .NET et le Front-End en React en utilisant Tailwind.*
 
 #
