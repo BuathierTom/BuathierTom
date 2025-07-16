@@ -7,7 +7,7 @@
 
 <h3 align="left">📫 Me contacter</h3>
 
-- <u>Portfolio:</u> **[buathier-portfolio.vercel.app](https://buathier-portfolio.vercel.app/)**
+- <u>Portfolio:</u> **[buathier-tom.fr](https://buathier-tom.fr/)**
 - <u>Email:</u> **buathier_tom@orange.fr**
 - <u>Discord:</u> **xenvs**
 - <u>Twitter:</u> **[@tom_btr6](https://twitter.com/tom_btr6)**
