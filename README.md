@@ -10,6 +10,7 @@
 - 🌐 **[Portfolio personnel](https://buathier-tom.fr/)**
 - ✅ **[TaskFlow](https://taskflow.buathier-tom.fr/)** - *Application TodoList permettant de gérer des tâches avec des tags, des deadlines, et une authentification utilisateur.*
 - 🛒 **[ApiShop](https://apishop.buathier-tom.fr/)** - *Site e-commerce basique avec une API en .NET et le Front-End en React en utilisant Tailwind.*
+- 🧪 **[Portfolio QA Tester](https://portfolio-qa.buathier-tom.fr/)** – *Portfolio mettant en avant l'expertise QA et l'automatisation du testeur fictif Alex Dupont, pensé comme vitrine accessible pour les recruteurs.*
 
 #
 <!-- https://github.com/tandpfun/skill-icons -->
