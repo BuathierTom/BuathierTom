@@ -4,12 +4,6 @@
 <h3 align="center"> Moi c'est Tom ! Étudiant en 2ᵉ année de Master I2L à Calais, en alternance chez Enetpartner. Développeur Fullstack, spécialisé en PHP Symfony. </h3>
 
 #
-
-<h3 align="left">🚀 - Projets récents</h3>
-
-- 🌐 **[Portfolio personnel](https://buathier-tom.fr/)**
-
-#
 <!-- https://github.com/tandpfun/skill-icons -->
 <h3 align="left">📋 - Mes compétences</h3>
 
